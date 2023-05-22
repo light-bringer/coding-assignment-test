@@ -13,6 +13,7 @@ This will make the following interviews easier for you since you have already sh
     - The n:th Fibonacci number F(n) with the value of n provided by the user.
     - The Ackermann function A(m,n) with values of m and n provided by the user.
     - The factorial n! of a non-negative integer n provided by the user.
+    - The n:th Prime number F(n) with the value of n provided by the user.
 
 2) Also include a README with:
    - Instructions for setting up and running your code locally.
@@ -22,7 +23,7 @@ This will make the following interviews easier for you since you have already sh
 # Requirements
 - The backend of the service can be written in any language of your choice.
 - Implement the above mathematical functions along with basic and relevant tests.
-- Validate input data.
+- Validate input data (Important).
 - Also implement monitoring of your choice that measures and logs the runtime of the different math functions, with some way of accessing/displaying a summary of it.
 - Strive to keep the code clean and well organized.
 - Brownie Pts if you implement a CI/CD pipeline or a service in the internet where your code can be tested live. 
