@@ -31,6 +31,7 @@ This will make the following interviews easier for you since you have already sh
 # Non-requirements
 Please don't:
 - Implement a web user interface.
+- Use PHP to implement the same.
 - Use standard library implementations of functions you're asked to implement.
 
 
