@@ -15,9 +15,9 @@ This will make the following interviews easier for you since you have already sh
   - The factorial n! of a non-negative integer n provided by the user.
 
 2) Also include a README with:
-Instructions for setting up and running your code locally.
-A brief description for how, if needed, you would setup this service in some cloud environment (preferably AWS).
-Use any framework and other third-party libraries you want that fits the task and your experience. Be prepared to motivate your choices in a followup session.
+   - Instructions for setting up and running your code locally.
+   - A brief description for how, if needed, you would setup this service in some cloud environment (preferably AWS).
+   - Use any framework and other third-party libraries you want that fits the task and your experience. Be prepared to motivate your choices in a followup session.
 
 # Requirements
 - The backend of the service can be written in any language of your choice.
