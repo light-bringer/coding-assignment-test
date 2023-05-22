@@ -22,7 +22,7 @@ This will make the following interviews easier for you since you have already sh
 
 # Requirements
 - The backend of the service can be written in any language of your choice.
-- Implement the above mathematical functions along with basic and relevant tests.
+- Implement the above mathematical functions along with basic and relevant tests. (Important)
 - Validate input data (Important).
 - Also implement monitoring of your choice that measures and logs the runtime of the different math functions, with some way of accessing/displaying a summary of it.
 - Strive to keep the code clean and well organized.
