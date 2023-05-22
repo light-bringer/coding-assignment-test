@@ -10,9 +10,9 @@ This will make the following interviews easier for you since you have already sh
 # Mathematical Web Service
 
 1) Please implement a web service which calculates and provides results for the following algorithms via a REST API:
-The n:th Fibonacci number F(n) with the value of n provided by the user.
-The Ackermann function A(m,n) with values of m and n provided by the user.
-The factorial n! of a non-negative integer n provided by the user.
+  - The n:th Fibonacci number F(n) with the value of n provided by the user.
+  - The Ackermann function A(m,n) with values of m and n provided by the user.
+  - The factorial n! of a non-negative integer n provided by the user.
 
 2) Also include a README with:
 Instructions for setting up and running your code locally.
